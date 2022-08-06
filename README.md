@@ -9,5 +9,6 @@
   5. ListBoardView를 통해 게시판 목록 1개의 내용이 보여질 요소 를작성
   6. ListBoardDTO에서 게시판 목록 1개의 내용의 TextView, ImageView의 getter와 setter를 정의
   7. ListViewBaseAdapter를 통해 view가 생성되고 해당 view에 내용을 업데이트 하는 adapter 작성
- 
+  8. scroll이 바닥에 다을경우 다음 페이지 로딩을 위해 MainActivity.class에 OnscrollListener를 implements 작성
+  9. 로딩중을 확인하기 위해 progressBar를 1초간 작동하게 작성
   
